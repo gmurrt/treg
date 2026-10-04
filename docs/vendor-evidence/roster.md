@@ -87,7 +87,7 @@ Contact: support@ugcroster.com (public support contact on Roster's Terms/Privacy
 
 Three operations are intentionally curated: the complete data-key REST surface. Brand operations require different credentials and must not be ingested into a data-key extended tier. This requests a small-surface exception to the usual 8–15 endpoints and reuses influencersclub's existing `creators.profile` capability proposal.
 
-Public prepaid access is available without a monthly subscription: $25/5,000 credits, $125/25,000 or $500/100,000; manual purchases, 60 requests/minute, no automatic recharge. Existing subscribers retain their current terms. This retail offer is not a Treg purchase receipt.
+Public prepaid access is available without a monthly subscription: $25/5,000 credits, $125/25,000 or $500/100,000; manual purchases by default, 60 requests/minute. Optional auto-reload requires explicit console authorization and a monthly spending limit; it is off by default. Existing subscribers retain their current terms. This retail offer is not a Treg purchase receipt.
 
 Platform procurement is pending. An empty `platform_key_roster` setting enables later wiring without committing a credential. No `fx.yaml` receipt, funded platform account, USD replacement cost or platform-eligibility claim has been fabricated. Deployment configuration moved to the maintainer's private repo; activation and private credential handoff remain maintainer operations.
 
